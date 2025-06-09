@@ -60,8 +60,8 @@ export default function Home() {
               value={LinkValue}
               title={LinkValue}
               size={200}
-              bgColor={bgColor}
-              fgColor={fgColor}
+              bgColor={fgColor}
+              fgColor={bgColor}
               imageSettings={{
                 src: logoUrl,
                 x: undefined,
